@@ -10,7 +10,7 @@
 
 
 
-Currently, it mainly contains three parts: **basics**, **iterables** and **black magics**.
+Currently, it mainly contains three parts: **basic**, **iterator** and **black magic**.
 
 The most valuable part is `Inspiration`.  Even though you already knew this trick, but you rarely use it, because you don't know where to use, and `Inspiration` part will enlighten you.
 
@@ -84,7 +84,7 @@ In the learning and debugging stage, it is recommended to use an **interactive**
 
 ## Future work
 
-Currently, it mainly contains three parts: **basics**, **iterables** and **black magics**. I will continuously update once I dig a gold.
+Currently, it mainly contains three parts: **basic**, **iterator** and **black magic**. I will continuously update once I dig a gold.
 
 Maybe I will add the advanced usages and black magic of standard library, such as cool operator overloading, and also pick cool ideas from extra python tools. 
 
@@ -134,9 +134,9 @@ This project is the practical part of a series of Pluralsight Guides.
 
 - [Python Tricks - Basic - Part 2](https://www.pluralsight.com/guides/python-tricks-basic-part-2)
 
-- [Python Tricks - Iterators - Part 1](https://www.pluralsight.com/guides/python-tricks-iterators-part-1)
+- [Python Tricks - Iterator - Part 1](https://www.pluralsight.com/guides/python-tricks-iterator-part-1)
 
-- [Python Tricks - Iterators - Part 2](https://www.pluralsight.com/guides/python-tricks-iterators-part-2)
+- [Python Tricks - Iterator - Part 2](https://www.pluralsight.com/guides/python-tricks-iterator-part-2)
 
 - [Python Tricks - Black Magic](https://www.pluralsight.com/guides/python-tricks-black-magic)
 
