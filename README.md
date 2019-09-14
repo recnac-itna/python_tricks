@@ -128,17 +128,12 @@ I'm glad if you want to contribute to make it better.
 
 This project is the practical part of a series of Pluralsight Guides. 
 
-- [Python Tricks - Introduction](https://www.pluralsight.com/guides/python-tricks-introduction)
-
-- [Python Tricks - Basic - Part 1](https://www.pluralsight.com/guides/python-tricks-basic-part-1)
-
-- [Python Tricks - Basic - Part 2](https://www.pluralsight.com/guides/python-tricks-basic-part-2)
-
-- [Python Tricks - Iterator - Part 1](https://www.pluralsight.com/guides/python-tricks-iterator-part-1)
-
-- [Python Tricks - Iterator - Part 2](https://www.pluralsight.com/guides/python-tricks-iterator-part-2)
-
-- [Python Tricks - Black Magic](https://www.pluralsight.com/guides/python-tricks-black-magic)
+* [Python Tricks - Introduction](https://www.pluralsight.com/guides/python-tricks-introduction)
+* [Python Tricks - Basic - Part 1](https://www.pluralsight.com/guides/python-tricks-basic-part-1)
+* [Python Tricks - Basic - Part 2](https://www.pluralsight.com/guides/python-tricks-basic-part-2)
+* [Python Tricks - Iterator - Part 1](https://www.pluralsight.com/guides/python-tricks-iterator-part-1)
+* [Python Tricks - Iterator - Part 2](https://www.pluralsight.com/guides/python-tricks-iterator-part-2)
+* [Python Tricks - Black Magic](https://www.pluralsight.com/guides/python-tricks-black-magic)
 
   
 
