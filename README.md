@@ -20,6 +20,14 @@ Many example codes come from [LeetCode](https://leetcode.com/problemset/all/), I
 
 
 
+## Further Elaboration of Python
+
+Python is a **high-level**, **interpreted**, and **dynamic** programming language. Python offers a great compromise between development and execution time. It improves **development efficiency** within acceptable performance loss. With the **simplicity of grammar**, **high-level language features**, and **rich extensive support libraries**, Python helps you to focus more on your **own logic**. 
+
+Python used to be a glue or scripting language to increase productivity. Now Python has a complete technology stack, community ecology, and supporting tools and frameworks. On the strength of **conciseness**, **readability** and **interactivity**, python also play an important role in the field of data science and artificial intelligence.
+
+
+
 ## Why should use tricks?
 
 To make code concise, elegant and high-quality. (also efficient enough)
@@ -60,9 +68,17 @@ So it not includes all the advanced Python features, and I will not give a compl
 
 
 
-## Version
+## Environment
 
-Python 3.6 or Above
+### Version
+
+Python 3.6 or Above. But some examples have no version restrictions.
+
+
+
+### **Development Environment**
+
+In the learning and debugging stage, it is recommended to use an **interactive** development environment such as **Jupyter Notebook**.
 
 
 
@@ -77,9 +93,11 @@ Maybe I will add more design patterns and philosophy of Python.
 
 
 ## Thanks to
-* Special thanks to [Stefan Pochmann](https://leetcode.com/stefanpochmann/), many enlightening codes come from Stefan, and I really learned a lot from him.
-* Thanks to all good problems from LeetCode. In addition, LeetCode has a great OJ platform, and really suitable to do functional and performance test.
-* Many templates and tricks are enlightened by discussions in LeetCode, thanks to all the code masters.
+* Special thanks to [Stefan Pochmann](https://leetcode.com/stefanpochmann/). Many enlightening codes come from Stefan. I really learned a lot from him.
+* Thanks to [Stack Overflow](https://stackoverflow.com/) for the great questions and answers.
+* Thanks to [LeetCode](https://leetcode.com/problemset/all/) for the algorithm problems. Moreover, LeetCode has a great OJ platform. It is very suitable for functional and performance tests.
+* Many templates and tricks are enlightened by discussions in LeetCode. Thanks to all the code masters.
+* Thanks to many other articles and code snippets that I have referred to.
 
 
 
@@ -105,6 +123,24 @@ I'm glad if you want to contribute to make it better.
 * http://www.stefan-pochmann.info/spots/tutorials/
 
 
+
+## Source
+
+This project is the practical part of a series of Pluralsight Guides. 
+
+- [Python Tricks - Introduction](https://www.pluralsight.com/guides/python-tricks-introduction)
+
+- [Python Tricks - Basic - Part 1](https://www.pluralsight.com/guides/python-tricks-basic-part-1)
+
+- [Python Tricks - Basic - Part 2](https://www.pluralsight.com/guides/python-tricks-basic-part-2)
+
+- [Python Tricks - Iterators - Part 1](https://www.pluralsight.com/guides/python-tricks-iterators-part-1)
+
+- [Python Tricks - Iterators - Part 2](https://www.pluralsight.com/guides/python-tricks-iterators-part-2)
+
+- [Python Tricks - Black Magic](https://www.pluralsight.com/guides/python-tricks-black-magic)
+
+  
 
 ## Contact
 recnac@foxmail.com
