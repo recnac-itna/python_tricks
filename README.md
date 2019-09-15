@@ -10,7 +10,7 @@
 
 
 
-Currently, it mainly contains three parts: **basic**, **iterator** and **black magic**.
+Currently, it mainly contains three parts: **basic**, **iterable** and **black magic**.
 
 The most valuable part is `Inspiration`.  Even though you already knew this trick, but you rarely use it, because you don't know where to use, and `Inspiration` part will enlighten you.
 
@@ -84,7 +84,7 @@ In the learning and debugging stage, it is recommended to use an **interactive**
 
 ## Future work
 
-Currently, it mainly contains three parts: **basic**, **iterator** and **black magic**. I will continuously update once I dig a gold.
+Currently, it mainly contains three parts: **basic**, **iterable** and **black magic**. I will continuously update once I dig a gold.
 
 Maybe I will add the advanced usages and black magic of standard library, such as cool operator overloading, and also pick cool ideas from extra python tools. 
 
@@ -111,19 +111,6 @@ I'm glad if you want to contribute to make it better.
 
 
 
-
-## Reference
-
-* https://leetcode.com/problemset/all/
-* https://leetcode.com/discuss/
-* https://github.com/brennerm/PyTricks
-* https://www.wikipedia.org/
-* https://stackoverflow.com/
-* https://python-patterns.guide/
-* http://www.stefan-pochmann.info/spots/tutorials/
-
-
-
 ## Source
 
 This project is the practical part of a series of Pluralsight Guides. 
@@ -131,8 +118,8 @@ This project is the practical part of a series of Pluralsight Guides.
 * [Python Tricks - Introduction](https://www.pluralsight.com/guides/python-tricks-introduction)
 * [Python Tricks - Basic - Part 1](https://www.pluralsight.com/guides/python-tricks-basic-part-1)
 * [Python Tricks - Basic - Part 2](https://www.pluralsight.com/guides/python-tricks-basic-part-2)
-* [Python Tricks - Iterator - Part 1](https://www.pluralsight.com/guides/python-tricks-iterator-part-1)
-* [Python Tricks - Iterator - Part 2](https://www.pluralsight.com/guides/python-tricks-iterator-part-2)
+* [Python Tricks - Iterable - Part 1](https://www.pluralsight.com/guides/python-tricks-iterable-part-1)
+* [Python Tricks - Iterable - Part 2](https://www.pluralsight.com/guides/python-tricks-iterable-part-2)
 * [Python Tricks - Black Magic](https://www.pluralsight.com/guides/python-tricks-black-magic)
 
   
