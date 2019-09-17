@@ -115,14 +115,15 @@ I'm glad if you want to contribute to make it better.
 
 This project is the practical part of a series of Pluralsight Guides. 
 
-* [Python Tricks - Introduction](https://www.pluralsight.com/guides/python-tricks-introduction)
-* [Python Tricks - Basic - Part 1](https://www.pluralsight.com/guides/python-tricks-basic-part-1)
-* [Python Tricks - Basic - Part 2](https://www.pluralsight.com/guides/python-tricks-basic-part-2)
-* [Python Tricks - Iterable - Part 1](https://www.pluralsight.com/guides/python-tricks-iterable-part-1)
-* [Python Tricks - Iterable - Part 2](https://www.pluralsight.com/guides/python-tricks-iterable-part-2)
-* [Python Tricks - Black Magic](https://www.pluralsight.com/guides/python-tricks-black-magic)
+- [Python Tricks - Introduction](/guides/python-tricks-introduction)
+- [Python Tricks - Basic - Part 1](/guides/python-tricks-basic-part-1)
+- [Python Tricks - Basic - Part 2](/guides/python-tricks-basic-part-2)
+- [Python Tricks - Iterable - Part 1](/guides/python-tricks-iterable-part-1)
+- [Python Tricks - Iterable - Part 2](/guides/python-tricks-iterable-part-2)
+- [Python Tricks - Black Magic - Part 1](/guides/python-tricks-black-magic-part-1)
+- [Python Tricks - Black Magic - Part 2](/guides/python-tricks-black-magic-part-2)
 
-  
+
 
 ## Contact
 recnac@foxmail.com
